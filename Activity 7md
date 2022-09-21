@@ -1,0 +1,4 @@
+SET number TO 2 
+SEND "Please enter guess number"
+To DISPLAY RECIEVE guess FROM keyboard
+IF guess > 10 THEN s
